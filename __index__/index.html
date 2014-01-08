@@ -1,18 +1,18 @@
-{% set version = '?v=1' %}
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="{{ description }}">
+    <meta name="description" content="">
     <meta name="author" content="">
-    <link rel="shortcut icon" href="{{ base_url }}/ico/favicon.png">
+    <link rel="shortcut icon" href="http://yaph.github.io//ico/favicon.png">
 
-    <title>{{ title }}</title>
+    <title>__Index__</title>
 
     <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" rel="stylesheet">
     <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="{{ base_url }}/css/style.css{{ version }}">
+    <link rel="stylesheet" href="http://yaph.github.io//css/style.css?v=1">
 
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -21,11 +21,9 @@
   </head>
 
   <body>
-    {% block body_styles %}
-        {% for style in styles %}
-            <link href="{{ script }}{{ version }}" rel="stylesheet">
-        {% endfor %}
-    {% endblock %}
+    
+        
+    
 
     <div class="navbar navbar-inverse navbar-fixed-top">
       <div class="container">
@@ -40,12 +38,17 @@
       </div>
     </div>
 
-    {% block content %}{% endblock %}
+    
+<h1 class="index_heading">__index__</h1>
+<ul class="index_docs">
 
-    {% block body_scripts %}
-        {% for script in scripts %}
-            <script src="{{ script }}{{ version }}"></script>
-        {% endfor %}
-    {% endblock %}
+    <li><a href="http://yaph.github.io//">Welcome to Logya</a></li>
+
+</ul>
+
+
+    
+        
+    
   </body>
 </html>
