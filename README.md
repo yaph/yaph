@@ -14,15 +14,20 @@ I've created a number of websites since I published my [my first web page](http:
 * [programminglanguages.info](https://programminglanguages.info/) - An informational website dedicated to computer programming languages.
 * [ukealong.com](https://ukealong.com/) - A website for ukulele players featuring videos to play along.
 
-## Recent Activity
+## GitHub Statistics
 
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#88](https://github.com/bspaans/python-mingus/pull/88) in [bspaans/python-mingus](https://github.com/bspaans/python-mingus)
-2. 💪 Opened PR [#558](https://github.com/nicfit/eyeD3/pull/558) in [nicfit/eyeD3](https://github.com/nicfit/eyeD3)
-3. 💪 Opened PR [#1183](https://github.com/cuthbertLab/music21/pull/1183) in [cuthbertLab/music21](https://github.com/cuthbertLab/music21)
-4. ❗️ Closed issue [#31](https://github.com/yaph/geonamescache/issues/31) in [yaph/geonamescache](https://github.com/yaph/geonamescache)
-5. 🗣 Commented on [#31](https://github.com/yaph/geonamescache/issues/31) in [yaph/geonamescache](https://github.com/yaph/geonamescache)
-<!--END_SECTION:activity-->
+I joined Github **12** years ago.
+
+I've pushed **4615** commits, opened **297** issues, submitted **87** pull requests, received **943** stars across **82** my repos and contributed to **13** public repos.
+
+My most used languages are:
+
+* HTML: 95.2
+* Jupyter Notebook: 4.3
+* Python: 0.1
+* Other: 0.1
+
+Generated with: https://github.com/teoxoy/profile-readme-stats
 
 ---
 
