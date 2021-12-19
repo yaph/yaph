@@ -18,7 +18,7 @@ I've created a number of websites since I published my [my first web page](http:
 
 I joined Github **{{ ACCOUNT_AGE }}** years ago.
 
-I've pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests, received **{{ STARS }}** stars across my **{{ REPOSITORIES }}** repos and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repos.
+I've pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests, received **{{ STARS }}** stars across **{{ REPOSITORIES }}** of my repos and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repos of other users and organizations.
 
 Generated with [teoxoy/profile-readme-stats](https://github.com/teoxoy/profile-readme-stats)
 
