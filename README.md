@@ -18,16 +18,9 @@ I've created a number of websites since I published my [my first web page](http:
 
 I joined Github **12** years ago.
 
-I've pushed **4617** commits, opened **297** issues, submitted **87** pull requests, received **943** stars across my **82** repos and contributed to **13** public repos.
+I've pushed **4619** commits, opened **297** issues, submitted **87** pull requests, received **943** stars across my **82** repos and contributed to **13** public repos.
 
-My 5 most used languages are:
-
-* HTML: 95.2
-* Jupyter Notebook: 4.3
-* Python: 0.1
-* Other: 0.1
-
-Generated with: https://github.com/teoxoy/profile-readme-stats
+Generated with [teoxoy/profile-readme-stats](https://github.com/teoxoy/profile-readme-stats)
 
 ---
 
