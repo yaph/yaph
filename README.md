@@ -23,3 +23,9 @@ I've created a number of websites since I published my [my first web page](http:
 4. ❗️ Closed issue [#31](https://github.com/yaph/geonamescache/issues/31) in [yaph/geonamescache](https://github.com/yaph/geonamescache)
 5. 🗣 Commented on [#31](https://github.com/yaph/geonamescache/issues/31) in [yaph/geonamescache](https://github.com/yaph/geonamescache)
 <!--END_SECTION:activity-->
+
+---
+
+Visitors since 2021-12-19
+
+![Visitor Count](https://profile-counter.glitch.me/yaph/count.svg)
