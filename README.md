@@ -18,9 +18,9 @@ I've created a number of websites since I published my [my first web page](http:
 
 I joined Github **12** years ago.
 
-I've pushed **4615** commits, opened **297** issues, submitted **87** pull requests, received **943** stars across **82** my repos and contributed to **13** public repos.
+I've pushed **4617** commits, opened **297** issues, submitted **87** pull requests, received **943** stars across my **82** repos and contributed to **13** public repos.
 
-My most used languages are:
+My 5 most used languages are:
 
 * HTML: 95.2
 * Jupyter Notebook: 4.3
