@@ -4,7 +4,7 @@ I'm [Ramiro](https://ramiro.org/) from Berlin. I like solving problems with code
 
 ## Open Source
 
-I have published a lot of the code I've written for my personal projects since I released my [first open source project](https://github.com/yaph/berlinifyer) in 2002. I mainly program in Python and JavaScript and maintain several packages on [npm](https://www.npmjs.com/~rg) and [PyPI](https://pypi.org/user/ramiro/).
+I have published a lot of the code I've written for my personal projects since I released my [first open source project](https://github.com/yaph/berlinifyer) in 2002. I mainly program in Python and JavaScript and maintain several packages on [npm](https://www.npmjs.com/~rg) and [PyPI](https://pypi.org/user/ramiro/). You can see what GitHub repos from other users and organizations I've contributed to in the past [in this table](CONTRIBUTIONS.md).
 
 ## Websites
 
@@ -13,14 +13,6 @@ I've created a number of websites since I published my [my first web page](http:
 * [geeksta.net](https://geeksta.net/) - Articles, tools and merchandise for IT geeks.
 * [programminglanguages.info](https://programminglanguages.info/) - An informational website dedicated to computer programming languages.
 * [ukealong.com](https://ukealong.com/) - A website for ukulele players featuring videos to play along.
-
-## GitHub Statistics
-
-I joined Github **12** years ago.
-
-I've pushed **4626** commits, opened **297** issues, submitted **87** pull requests, received **944** stars across **82** of my repos and contributed to **13** public repos of other users and organizations.
-
-Generated with [teoxoy/profile-readme-stats](https://github.com/teoxoy/profile-readme-stats)
 
 ---
 
