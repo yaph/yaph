@@ -1,0 +1,24 @@
+on:
+  schedule:
+    - cron: '42 0 * * 0' # first day of the week at 00:42
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+    - name: Generate
+      uses: coderstats/github-action-merged-pull-requests@master
+      with:
+        token: ${{ secrets.USER_TOKEN }}
+        output: ./MERGED_PULL_REQUESTS.md
+    - name: Update
+      run: |
+        if [[ "$(git status --porcelain)" != "" ]]; then
+        git config user.name github-actions[bot]
+        git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+        git add .
+        git commit -m "Update merged pull requests"
+        git push
+        fi
