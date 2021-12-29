@@ -15,7 +15,7 @@ jobs:
       uses: coderstats/github-action-merged-pull-requests@master
       with:
         token: ${{ secrets.USER_TOKEN }}
-        output: ./MERGED_PULL_REQUESTS.md
+        output: ./CONTRIBUTIONS.md
     - name: Update
       run: |
         if [[ "$(git status --porcelain)" != "" ]]; then
