@@ -12,7 +12,7 @@ jobs:
       with:
         fetch-depth: 0
     - name: Generate
-      uses: coderstats/github-action-merged-pull-requests@master
+      uses: coderstats/github-action-merged-pull-requests@main
       with:
         token: ${{ secrets.USER_TOKEN }}
         output: ./CONTRIBUTIONS.md
