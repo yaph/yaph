@@ -8,14 +8,8 @@ I have published a lot of the code I've written for my personal projects since I
 
 ## Websites
 
-I've created a number of websites since I published my [my first web page](http://web.archive.org/web/19990429221519/http://angli02.kgw.tu-berlin.de/students/Ramiro/Ramiro.html) in 1997. I currently focus on the following ones:
+Below are some projects I'm working on.
 
 * [geeksta.net](https://geeksta.net/) - Articles, tools and merchandise for IT geeks.
 * [programminglanguages.info](https://programminglanguages.info/) - An informational website dedicated to computer programming languages.
 * [ukealong.com](https://ukealong.com/) - A website for ukulele players featuring videos to play along.
-
----
-
-Visitors since 2021-12-19
-
-![Visitor Count](https://profile-counter.glitch.me/yaph/count.svg)
