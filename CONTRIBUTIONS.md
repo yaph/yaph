@@ -1,49 +1,49 @@
 | Repository | Primary Language | PR Count | Star Count |
 | :-- | :-- | --: | --: |
-| [networkx/networkx](https://github.com/networkx/networkx) | Python | 3 | 13723 |
-| [michaelhelmick/lassie](https://github.com/michaelhelmick/lassie) | HTML | 3 | 594 |
-| [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) |  | 2 | 306371 |
-| [pallets/flask](https://github.com/pallets/flask) | Python | 2 | 65390 |
-| [explosion/spaCy](https://github.com/explosion/spaCy) | Python | 2 | 27931 |
-| [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib) | Python | 2 | 18679 |
-| [jacomyal/sigma.js](https://github.com/jacomyal/sigma.js) | TypeScript | 2 | 10874 |
-| [ad-si/awesome-music-production](https://github.com/ad-si/awesome-music-production) | Makefile | 2 | 853 |
+| [networkx/networkx](https://github.com/networkx/networkx) | Python | 3 | 13756 |
+| [michaelhelmick/lassie](https://github.com/michaelhelmick/lassie) | HTML | 3 | 593 |
+| [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) |  | 2 | 306880 |
+| [pallets/flask](https://github.com/pallets/flask) | Python | 2 | 65455 |
+| [explosion/spaCy](https://github.com/explosion/spaCy) | Python | 2 | 27972 |
+| [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib) | Python | 2 | 18715 |
+| [jacomyal/sigma.js](https://github.com/jacomyal/sigma.js) | TypeScript | 2 | 10878 |
+| [ad-si/awesome-music-production](https://github.com/ad-si/awesome-music-production) | Makefile | 2 | 858 |
 | [bevry/staticsitegenerators-list](https://github.com/bevry/staticsitegenerators-list) | TypeScript | 2 | 221 |
 | [rdegges/python-amazonify](https://github.com/rdegges/python-amazonify) | Python | 2 | 95 |
-| [jgthms/bulma](https://github.com/jgthms/bulma) | CSS | 1 | 47808 |
-| [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) | Python | 1 | 34636 |
-| [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | Jupyter Notebook | 1 | 26487 |
-| [ipython/ipython](https://github.com/ipython/ipython) | Python | 1 | 16047 |
-| [rlabbe/Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) | Jupyter Notebook | 1 | 15137 |
-| [bower/bower](https://github.com/bower/bower) | JavaScript | 1 | 15012 |
-| [pennersr/django-allauth](https://github.com/pennersr/django-allauth) | Python | 1 | 8565 |
-| [medialize/URI.js](https://github.com/medialize/URI.js) | JavaScript | 1 | 6253 |
-| [rushter/data-science-blogs](https://github.com/rushter/data-science-blogs) | Python | 1 | 6208 |
-| [rhiever/Data-Analysis-and-Machine-Learning-Projects](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects) | Jupyter Notebook | 1 | 5812 |
-| [gboeing/osmnx](https://github.com/gboeing/osmnx) | Python | 1 | 4507 |
-| [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) |  | 1 | 4035 |
-| [geopandas/geopandas](https://github.com/geopandas/geopandas) | Python | 1 | 3997 |
-| [sshuair/awesome-gis](https://github.com/sshuair/awesome-gis) |  | 1 | 3924 |
-| [sacridini/Awesome-Geospatial](https://github.com/sacridini/Awesome-Geospatial) |  | 1 | 3688 |
-| [jdorfman/awesome-json-datasets](https://github.com/jdorfman/awesome-json-datasets) | JavaScript | 1 | 3099 |
+| [jgthms/bulma](https://github.com/jgthms/bulma) | CSS | 1 | 47826 |
+| [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) | Python | 1 | 34660 |
+| [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | Jupyter Notebook | 1 | 26643 |
+| [ipython/ipython](https://github.com/ipython/ipython) | Python | 1 | 16051 |
+| [rlabbe/Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) | Jupyter Notebook | 1 | 15167 |
+| [bower/bower](https://github.com/bower/bower) | JavaScript | 1 | 15009 |
+| [pennersr/django-allauth](https://github.com/pennersr/django-allauth) | Python | 1 | 8586 |
+| [medialize/URI.js](https://github.com/medialize/URI.js) | JavaScript | 1 | 6251 |
+| [rushter/data-science-blogs](https://github.com/rushter/data-science-blogs) | Python | 1 | 6209 |
+| [rhiever/Data-Analysis-and-Machine-Learning-Projects](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects) | Jupyter Notebook | 1 | 5816 |
+| [gboeing/osmnx](https://github.com/gboeing/osmnx) | Python | 1 | 4514 |
+| [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) |  | 1 | 4072 |
+| [geopandas/geopandas](https://github.com/geopandas/geopandas) | Python | 1 | 4017 |
+| [sshuair/awesome-gis](https://github.com/sshuair/awesome-gis) |  | 1 | 3937 |
+| [sacridini/Awesome-Geospatial](https://github.com/sacridini/Awesome-Geospatial) |  | 1 | 3698 |
+| [jdorfman/awesome-json-datasets](https://github.com/jdorfman/awesome-json-datasets) | JavaScript | 1 | 3105 |
 | [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) | JavaScript | 1 | 2830 |
-| [tonaljs/tonal](https://github.com/tonaljs/tonal) | TypeScript | 1 | 2686 |
-| [jupyter/nbviewer](https://github.com/jupyter/nbviewer) | Python | 1 | 2141 |
-| [eon01/awesome-chatgpt](https://github.com/eon01/awesome-chatgpt) |  | 1 | 2009 |
-| [cuthbertLab/music21](https://github.com/cuthbertLab/music21) | Python | 1 | 1909 |
-| [OpenMindClub/awesome-chatgpt](https://github.com/OpenMindClub/awesome-chatgpt) |  | 1 | 1734 |
-| [mourner/bullshit.js](https://github.com/mourner/bullshit.js) | JavaScript | 1 | 1707 |
-| [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) |  | 1 | 1359 |
+| [tonaljs/tonal](https://github.com/tonaljs/tonal) | TypeScript | 1 | 2687 |
+| [jupyter/nbviewer](https://github.com/jupyter/nbviewer) | Python | 1 | 2146 |
+| [eon01/awesome-chatgpt](https://github.com/eon01/awesome-chatgpt) |  | 1 | 2013 |
+| [cuthbertLab/music21](https://github.com/cuthbertLab/music21) | Python | 1 | 1913 |
+| [OpenMindClub/awesome-chatgpt](https://github.com/OpenMindClub/awesome-chatgpt) |  | 1 | 1739 |
+| [mourner/bullshit.js](https://github.com/mourner/bullshit.js) | JavaScript | 1 | 1708 |
+| [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) |  | 1 | 1389 |
 | [kvesteri/sqlalchemy-utils](https://github.com/kvesteri/sqlalchemy-utils) | Python | 1 | 1172 |
-| [OtacilioN/awesome-hacktoberfest](https://github.com/OtacilioN/awesome-hacktoberfest) |  | 1 | 837 |
-| [technosophos/querypath](https://github.com/technosophos/querypath) | PHP | 1 | 825 |
-| [craffel/pretty-midi](https://github.com/craffel/pretty-midi) | Jupyter Notebook | 1 | 765 |
+| [OtacilioN/awesome-hacktoberfest](https://github.com/OtacilioN/awesome-hacktoberfest) |  | 1 | 836 |
+| [technosophos/querypath](https://github.com/technosophos/querypath) | PHP | 1 | 823 |
+| [craffel/pretty-midi](https://github.com/craffel/pretty-midi) | Jupyter Notebook | 1 | 768 |
 | [pinceladasdaweb/Static-Site-Generators](https://github.com/pinceladasdaweb/Static-Site-Generators) |  | 1 | 586 |
-| [awesome-chatgpt/awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt) |  | 1 | 559 |
+| [awesome-chatgpt/awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt) |  | 1 | 565 |
 | [Amin-Tgz/awesome-tensorflow-2](https://github.com/Amin-Tgz/awesome-tensorflow-2) |  | 1 | 524 |
-| [nicfit/eyeD3](https://github.com/nicfit/eyeD3) | Python | 1 | 511 |
+| [nicfit/eyeD3](https://github.com/nicfit/eyeD3) | Python | 1 | 513 |
 | [fffaraz/awesome-github](https://github.com/fffaraz/awesome-github) |  | 1 | 475 |
-| [johnjago/awesome-uncopyright](https://github.com/johnjago/awesome-uncopyright) |  | 1 | 469 |
+| [johnjago/awesome-uncopyright](https://github.com/johnjago/awesome-uncopyright) |  | 1 | 471 |
 | [d3/d3-drag](https://github.com/d3/d3-drag) | JavaScript | 1 | 328 |
 | [mapschool/mapschool](https://github.com/mapschool/mapschool) | HTML | 1 | 292 |
 | [kartograph/kartograph.org](https://github.com/kartograph/kartograph.org) | JavaScript | 1 | 281 |
